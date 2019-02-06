@@ -103,7 +103,7 @@
     "markdown-it-terminal": "0.1.0",
     "minimatch": "^3.0.4",
     "morgan": "^1.9.1",
-    "nopt": "^3.0.6",
+    "nopt": "^4.0.1",
     "npm-package-arg": "^6.1.0",
     "portfinder": "^1.0.20",
     "promise-map-series": "^0.2.3",
